@@ -162,12 +162,12 @@ nav ul li a {
 	float: left;
 }
 
-header {
-	top: 5em;
+.placeholder {
+	height: 5em;
 }
 
 main {
-	margin: 6em auto;
+	margin: 4em auto;
 }
 
 }
